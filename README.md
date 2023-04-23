@@ -1,4 +1,4 @@
-﻿# Úloha 2 - Kalkulačka (Kalkify)
+# Kalkulačka (Kalkify)
 
 ## Ovládání
 1. Uživatel zadá do prvního vstupu jakékoli celé či desetinné číslo nebo zlomek ve tvaru *čitatel|jmenovatel*
@@ -18,4 +18,4 @@ Upozornění na chybu se může zobrazit v těchto případech:
 
 ## Obecné informace
 Autorem této aplikace je **Petr Vurm**.
-Aplikace byla vytvořena na Krajském kole soutěže programování v Hradci Králové dne 22. dubna 2023
+Aplikace byla vytvořena na [Krajském kole soutěže programování v Hradci Králové](https://soutezekhk.cz/?soutez=23&kategorie=102&oblast=7) dne 22. dubna 2023
